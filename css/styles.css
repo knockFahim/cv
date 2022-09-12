@@ -1,0 +1,131 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.top-container{
+  background-color: #E0EBE8;
+  position: relative;
+  padding-top: 50px;
+}
+h1{
+  padding-top: 50px;
+  color: #4AB19A;
+  font-size: 5.625rem;
+  font-family: 'GFS Didot', serif;
+  font-weight: normal;
+}
+h2{
+  color: #4AB19A;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0 auto 0 auto;
+  font-size: 20px;
+}
+p{
+  color: #4AB19A;
+  font-size: 180%;
+  font-family: 'Montserrat', sans-serif;
+  width: 50%;
+  margin: 0 auto 20px auto;
+}
+.top-cloud{
+  position: absolute;
+  right: 100px;
+  top: 200px;
+}
+.mountain{
+  position: relative;
+}
+.bottom-cloud{
+  position: absolute;
+  top: 300px;
+}
+a{
+  color: #11999E;
+}
+.intro{
+  color: black;
+  font-weight: 300;
+  font-family: 'EB Garamond', serif;
+}
+.skills{
+  margin-top: 50px;
+}
+.skill-row{
+  width: 70%;
+  margin: 0 auto 0 400px;
+  font-size: 10px;
+  text-align: left;
+  display: inline-block;
+}
+.my-img{
+  margin-top: 30px;
+  display: inline-block;
+  height: 350px;
+}
+.web-dev{
+  display: inline-block;
+  height:220px;
+  position: relative;
+  margin-top: 10px;
+}
+.web-design{
+  display: inline-block;
+  height: 210px;
+  position: relative;
+}
+.title1{
+  bottom: 175px;
+  left: 34px;
+  position: relative;
+  display: inline-block;
+}
+.title2{
+  position: relative;
+  display: inline-block;
+  left: 45px;
+  bottom: 180px;
+}
+
+.text1{
+  position: relative;
+  display: inline-block;
+  bottom: 65px;
+  right: 200px;
+  font-size: 22px;
+  color: black;
+  font-weight: 500;
+  font-family: 'EB Garamond', serif;
+  line-height: 1.5
+}
+.text2{
+  position: relative;
+  display: inline-block;
+  bottom: 75px;
+  right: 200px;
+  font-size: 22px;
+  color: black;
+  font-weight: 500;
+  font-family: 'EB Garamond', serif;
+  margin-bottom: 100px;
+  line-height: 1.5;
+}
+.head1{
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.in-touch{
+  margin-top: 100px;
+  color: black;
+  font-weight: 500;
+  font-family: 'EB Garamond', serif;
+}
+.rights{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
